@@ -41,13 +41,11 @@ const Footer = () => {
       <Github className="h-4 w-4" />
     </Button>
   </a>
-
-  <a href="nidhi24cs@student.mes.ac.in">
-    <Button variant="outline" size="icon" className="h-8 w-8">
-      <Mail className="h-4 w-4" />
-    </Button>
-  </a>
-
+  <a href="mailto:nidhi24cs@student.mes.ac.in">
+  <Button variant="outline" size="icon" className="h-8 w-8">
+    <Mail className="h-4 w-4" />
+  </Button>
+</a>
 </div>
 
           </div>
